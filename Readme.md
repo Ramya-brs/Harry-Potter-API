@@ -9,4 +9,4 @@
 ##### Purpose:
      This app contains harry potter movie students and professors details will be shown using Harry potter API
 
-#### Dear Students, Check out the live app [here]().
+#### Dear Students, Check out the live app [here](https://ramya-brs.github.io/Harry-Potter-API/).
